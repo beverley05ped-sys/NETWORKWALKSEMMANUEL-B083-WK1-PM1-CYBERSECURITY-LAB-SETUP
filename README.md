@@ -1,7 +1,7 @@
 # NETWORKWALKSEMMANUEL-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
 ## Cybersecurity Lab Setup - Week 1 | NetworkWalks
 
-**Student:** Emmanuel | **Batch:** B083 | **Week:** WK1-PM1
+**Student:** Beverley Pedzera | **Batch:** B083 | **Week:** WK1-PM1
 **Lab:** Cybersecurity Lab Setup with VirtualBox + Kali Linux
 **Sample Reference:** https://github.com/waqaskarimccie/Cybersecurity-Lab-Setup1
 
